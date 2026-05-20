@@ -1,6 +1,7 @@
 # OpenCow APT Repository
 
-APT repository for OpenCow CLI packages.
+APT repository for OpenCow CLI packages. Packages are currently published for
+`amd64` and `arm64`.
 
 ## Ubuntu 24.04
 
