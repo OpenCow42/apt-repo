@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 20 May 2026 13:53:47 +0000
+Description: OpenCow APT repository
+Label: OpenCow
+Origin: OpenCow
+Suite: stable
+MD5Sum:
+ 34fcd33aacf0a6e0c29eab037153b7ba              174 Release
+ dd1481e0a0c5e755648a5680a1abaa22              601 main/binary-amd64/Packages
+ b25e0c2292e5d254340d88fdb3d681d6              442 main/binary-amd64/Packages.gz
+SHA1:
+ f868a687d35b202782e2bd61c372d63c212dadf0              174 Release
+ 38600197de83a8e477f8df00e22c322824705390              601 main/binary-amd64/Packages
+ f7691dcf34c6974efa3ed2d7546a47aaee005f6f              442 main/binary-amd64/Packages.gz
+SHA256:
+ 14bae3c4139d5df5997c834931dcf1eeb5399ccd08c7f7b18c783524f32e37ff              174 Release
+ 2b31f986408723a3228b2a757d08fb988da643055733652abf0f5880b10659a3              601 main/binary-amd64/Packages
+ 457227b998581ae4435ceb09dab02e192ad3fccf57d50b36377727133e58c7af              442 main/binary-amd64/Packages.gz
+SHA512:
+ 4070402ce1813f46079562b4b5db264665fc2d336e25e8c2b7c7bd077028344dd142c2199b2c3eb08150b6e70d180c2f0b3599edf9c9905a4e65759fb74580a9              174 Release
+ ea4faa8bd6982da5e187467adf342a90ef53b3fcb283a0e29f745d16c2405e7a4d9060602524a488cab5b0d7893ddcc75ab447569a29a21b0bf3263cc63e98a5              601 main/binary-amd64/Packages
+ 011709785e70f29b4f2234514c5b8d516c5281e6ce56c7ef2c82a23f240f62cf69150c713d8cd475abddf894964cb307419dfeed7bbda09dc1c4eebb759985ed              442 main/binary-amd64/Packages.gz
