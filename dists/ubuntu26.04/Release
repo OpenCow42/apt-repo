@@ -1,24 +1,24 @@
 Architectures: amd64
-Codename: stable
+Codename: ubuntu26.04
 Components: main
 Date: Wed, 20 May 2026 13:55:31 +0000
-Description: OpenCow APT repository
+Description: OpenCow APT repository for Ubuntu 26.04
 Label: OpenCow
 Origin: OpenCow
-Suite: stable
+Suite: ubuntu26.04
 MD5Sum:
- 15adeb1a76ffb2147f1f28f0dc57c83f              174 Release
+ f3deb26d34a6b40df22e22426e76602f              201 Release
  dd1481e0a0c5e755648a5680a1abaa22              601 main/binary-amd64/Packages
  df6e77c47f199de03ccc57561cd4a63d              442 main/binary-amd64/Packages.gz
 SHA1:
- 4367c78da320296abc84618ca1483c5f33769b57              174 Release
+ e11c74a3c769b1ff6271b0271005ebcb6b73c500              201 Release
  38600197de83a8e477f8df00e22c322824705390              601 main/binary-amd64/Packages
  33c549a15250e5d8cd0a999ed1b9b0508e594802              442 main/binary-amd64/Packages.gz
 SHA256:
- 1273213c4cb82d44de30af37fa7dbee9788b9bec2736dfdcac27090af0acc861              174 Release
+ a77cb05d989882c3792816238ed627493070cb19212eb38b04c8fe5d7173b44e              201 Release
  2b31f986408723a3228b2a757d08fb988da643055733652abf0f5880b10659a3              601 main/binary-amd64/Packages
  20f1e08a6026710dddbfb9a3a000ed0130c143181092f0906958342dd4b03b01              442 main/binary-amd64/Packages.gz
 SHA512:
- 2fa1a2a50ada74f39d3f9673db1246d99694891bd64d8187f41c8e625e9279f5b0e311191aeaf74bf9bf8695e0bc480249b86e39c2b4b1c924e2cc1d5a50f64b              174 Release
+ 456762af0b7d3dc61510455afd92b75539466bc74522e2dbd94291cd9abed78f78d95690f636e9bfc2becfb1e9f9c1fc273e4765f5c19a12564eba7a63cbee08              201 Release
  ea4faa8bd6982da5e187467adf342a90ef53b3fcb283a0e29f745d16c2405e7a4d9060602524a488cab5b0d7893ddcc75ab447569a29a21b0bf3263cc63e98a5              601 main/binary-amd64/Packages
  c7e920815efcb6e05e2adb89201f4f0af8ce05e02d8b76eb98cc946f7cea0a2dad8c7c5619bc5127c270b83f4c994b03bf22a186b7fd5d42376745cb4c8a96ce              442 main/binary-amd64/Packages.gz

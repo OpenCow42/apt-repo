@@ -1,0 +1,17 @@
+Package: metabrain
+Version: 1.1.1
+Architecture: amd64
+Maintainer: OpenCow42 <noreply@github.com>
+Installed-Size: 59424
+Depends: libc6, libstdc++6, libgcc-s1
+Filename: pool/main/m/metabrain/metabrain_1.1.1_amd64.deb
+Size: 17497366
+MD5sum: 38d04b7bcffd701de2fed567f9a6a23f
+SHA1: bfe121b1707adc084fbbf7bad21705e20e4328d4
+SHA256: 80160b984cf415834ebfe5fe26380782c9e83deb6a8762cb1551ce7a47260a7c
+Section: utils
+Priority: optional
+Description: AI-native local memory store CLI
+ metaBrain provides the mb command line tool for storing, inspecting,
+ searching, and linking structured local memory documents.
+
