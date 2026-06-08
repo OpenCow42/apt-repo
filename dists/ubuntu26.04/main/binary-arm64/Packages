@@ -1,17 +1,34 @@
 Package: metabrain
 Version: 1.2.1
-Section: utils
-Priority: optional
 Architecture: arm64
-Depends: libc6, libstdc++6, libgcc-s1
-Installed-Size: 118524
 Maintainer: OpenCow42 <noreply@github.com>
-Description: AI-native local memory store CLI and daemon
- metaBrain provides the mb command line tool and mbd local daemon for storing,
- inspecting, searching, and linking structured local memory documents.
+Installed-Size: 118524
+Depends: libc6, libstdc++6, libgcc-s1
 Filename: pool/main/m/metabrain/metabrain_1.2.1_arm64.deb
 Size: 34434590
 MD5sum: c96990db3f732ec3e450e4c4786baca0
 SHA1: 63dd6e27bf73c13a150600aebbc971f4c0f106ec
 SHA256: bead937b64003c621bda6bc15bbb323bf877a9a265fc99ceced1c6729252a7da
+Section: utils
+Priority: optional
+Description: AI-native local memory store CLI and daemon
+ metaBrain provides the mb command line tool and mbd local daemon for storing,
+ inspecting, searching, and linking structured local memory documents.
+
+Package: potassium
+Version: 0.0.2
+Architecture: arm64
+Maintainer: OpenCow42 <noreply@github.com>
+Installed-Size: 58956
+Depends: libc6, libstdc++6, libgcc-s1
+Filename: pool/main/p/potassium/potassium_0.0.2_arm64.deb
+Size: 16931828
+MD5sum: 0039bd46a39c4836ad2be10f042f19df
+SHA1: b826f969fff2fe3ceb7c262984ec5d1f449d222a
+SHA256: 2a9bbb985016a56c9ebb254ce89cc278311069ddacf93d4c4fa09a7eb590e8c0
+Section: utils
+Priority: optional
+Description: Infomaniak suite command line client
+ Potassium provides the pot command line tool for Infomaniak public APIs,
+ including kDrive, kChat, Mail, and URL shortener operations.
 

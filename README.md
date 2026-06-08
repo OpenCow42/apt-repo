@@ -32,3 +32,4 @@ The `trusted=yes` setup is temporary until the repository publishes a signing ke
 ## Packages
 
 - `metabrain`: installs the `mb` CLI at `/usr/bin/mb` and the `mbd` daemon at `/usr/bin/mbd`
+- `potassium`: installs the `pot` CLI at `/usr/bin/pot`
