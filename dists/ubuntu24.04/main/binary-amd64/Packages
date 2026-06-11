@@ -16,16 +16,16 @@ Description: AI-native local memory store CLI and daemon
  inspecting, searching, and linking structured local memory documents.
 
 Package: potassium
-Version: 0.0.2
+Version: 0.0.3
 Architecture: amd64
 Maintainer: OpenCow42 <noreply@github.com>
-Installed-Size: 60444
+Installed-Size: 60472
 Depends: libc6, libstdc++6, libgcc-s1
-Filename: pool/main/p/potassium/potassium_0.0.2_amd64.deb
-Size: 17444192
-MD5sum: 6fd24186da2c3f60d1d5dcdd4971593e
-SHA1: 5c655d311704788e4ea4990554887a84556e5aa6
-SHA256: bb3c2b3c6c9fd69b3c3b28f549729b6f0c344888aba7d629579f80b63472316f
+Filename: pool/main/p/potassium/potassium_0.0.3_amd64.deb
+Size: 17479796
+MD5sum: 6f7cc202ad2cb7ecf9bf6561997590b0
+SHA1: c8f53111cc05df271a6d2c9efec29f6f5bce1e93
+SHA256: 6ce064c5cbe78f41b66c02d4725d927f76c9fe35bfa9231fe894c73aa833288a
 Section: utils
 Priority: optional
 Description: Infomaniak suite command line client
