@@ -1,14 +1,14 @@
 Package: metabrain
-Version: 1.2.1
+Version: 1.3.0
 Architecture: arm64
 Maintainer: OpenCow42 <noreply@github.com>
-Installed-Size: 118524
+Installed-Size: 128944
 Depends: libc6, libstdc++6, libgcc-s1
-Filename: pool/main/m/metabrain/metabrain_1.2.1_arm64.deb
-Size: 34434590
-MD5sum: c96990db3f732ec3e450e4c4786baca0
-SHA1: 63dd6e27bf73c13a150600aebbc971f4c0f106ec
-SHA256: bead937b64003c621bda6bc15bbb323bf877a9a265fc99ceced1c6729252a7da
+Filename: pool/main/m/metabrain/metabrain_1.3.0_arm64.deb
+Size: 37947486
+MD5sum: 37d0a5f33eacec47a7cbfdc7709421b7
+SHA1: 1baeca1c3a05221d2c4bb8d0eae849c33f270317
+SHA256: fd490b6c2957abd50c55c6b4ffaa4920e9eef347ccb3fdd398619205cb8fc736
 Section: utils
 Priority: optional
 Description: AI-native local memory store CLI and daemon
